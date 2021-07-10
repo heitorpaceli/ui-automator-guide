@@ -41,7 +41,7 @@ import org.junit.runner.RunWith
 
 /**
  * Example of UI Automator script from article originally published
- * at [https://heitorpaceli.medium.com/](https://heitorpaceli.medium.com)
+ * at https://heitorpaceli.medium.com/the-definitive-guide-of-android-ui-automator-with-kotlin-2eab40edab0d
  */
 @RunWith(AndroidJUnit4::class)
 class WifiTest {
